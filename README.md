@@ -23,4 +23,4 @@ Try running the following commands:
     - Cucumber
 
 ## Project kanban board: 
-    - Project [Kanban board](https://github.com/users/KOlofinmoyin/projects/9/views/1)
+- Project [Kanban board](https://github.com/users/KOlofinmoyin/projects/9/views/1)
