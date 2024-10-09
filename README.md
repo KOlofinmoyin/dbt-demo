@@ -26,4 +26,4 @@ Try running the following commands:
     - Project [Kanban board](https://github.com/users/KOlofinmoyin/projects/9/views/1)
 
 ## Feature Tests: 
-    [ x ] Verify Dog of the day alerts on booked user mobile devices
+    [ x ] Verify Dog of the day alerts on booked user mobile device
